@@ -2,17 +2,17 @@ h1 {
     text-align: center;
 }
 body {
-  font-size: 1.5rem;
+    font-size: 1.25rem;
   font-family: "Share Tech Mono", monospace;
   align-items: center;
   text-align: center;
 }
 
 .card {
-  padding: 15px;
+  /* padding: 15px; */
   background: url(./images/contactcard.jpeg) no-repeat;
   background-size: cover;
-  background-position: 15% 75%;
+  background-position: 2% 75%;
 }
 
 #linked {
